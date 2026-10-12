@@ -1,0 +1,3 @@
+now i started revising what i have done so far. 
+firstly, i have created a file and added on git hub by creating a repo.
+now, i am adding some text into the file to add new content in the file.
